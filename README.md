@@ -1,6 +1,6 @@
 # current_location_finder
 
-A new Flutter project.
+In this project i have use geolocator to find my current location and display it also add some properties to allow location access in our android devices.
 
 ## Getting Started
 
